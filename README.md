@@ -1,0 +1,2 @@
+# logica
+logica de programación
